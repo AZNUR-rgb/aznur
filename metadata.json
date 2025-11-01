@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Wanizar Management System",
+  "description": "A comprehensive restaurant management system for Restaurant Wanizar, featuring a customer-facing frontend for ordering and an admin backend for managing menus, orders, and customers.",
+  "requestFramePermissions": []
+}
